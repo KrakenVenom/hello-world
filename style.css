@@ -1,0 +1,9 @@
+/*Basic css for index.html hello world site*/
+h1{
+    color: black;
+    font-size: 300px;
+    text-align: center;
+}
+body{
+    background-color: lightpink;
+}
